@@ -24,6 +24,6 @@ A Frontend Engineer. Building UIs with React, Redux.
 - [Learning Coding: feeling confident, frustrated, lost, sick, & confident again!!](https://mohdasifabid.hashnode.dev/learning-coding-feeling-confident-frustrated-lost-sick-and-confident-again)
 
 ## Connect with me 
-- [Mail](masifabid@outlook.com)
+- [Mail](mohdasif4494@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mohdasifdev/)
 - [Twitter](https://twitter.com/mohdasifdev)
