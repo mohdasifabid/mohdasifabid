@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi 👋, I'm Asif
 
-<!--
-**mohdasifabid/mohdasifabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+A Frontend Engineer. Building UIs with React, Redux.
 
-Here are some ideas to get you started:
+## Language & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Redux
+- RESTful APIs
+- JavaScript (ES6)
+- HTML5
+- CSS3
+
+## Latest Projectes
+- [E-Commerce App](https://duck-bukart.netlify.app/)
+- [Video Library](https://duck-tube.netlify.app/)
+- [Component Library](https://duck-ui.netlify.app/)
+- [Note Taking App](https://duck-notes.netlify.app/)
+- [Social Media App](https://duck-speak.netlify.app/)
+
+## Latest Blogs
+- [Write your own JavaScript reduce() method](https://mohdasifabid.hashnode.dev/write-your-own-javascript-reduce-method#cl3zwlo7w00pl34nvf6nk3v2b)
+- [Learning Coding: feeling confident, frustrated, lost, sick, & confident again!!](https://mohdasifabid.hashnode.dev/learning-coding-feeling-confident-frustrated-lost-sick-and-confident-again)
+
+## Connect with me 
+- [Mail](masifabid@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/mohdasifdev/)
+- [Twitter](https://twitter.com/mohdasifdev)
