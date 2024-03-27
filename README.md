@@ -22,6 +22,7 @@ A Frontend Engineer. Building UIs with React, Redux.
 - CSS3
 
 ## Latest Projectes
+- [Todo App | Backend & Frontend](https://todo-app-cna.vercel.app/)
 - [E-Commerce App](https://duck-bukart.netlify.app/)
 - [Video Library](https://duck-tube.netlify.app/)
 - [Component Library](https://duck-ui.netlify.app/)
