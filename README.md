@@ -5,10 +5,19 @@ A Frontend Engineer. Building UIs with React, Redux.
 
 ## Language & Tools
 
-- React
-- Redux
-- RESTful APIs
+- ReactJS
+- Nextjs
+- TypeScript
 - JavaScript (ES6)
+- React-Query
+- Redux
+- React-Query
+- RESTful APIs
+- Tailwind CSS
+- Chakra UI
+- Antd
+- Nodejs
+- Mongodb
 - HTML5
 - CSS3
 
